@@ -1,6 +1,6 @@
 /*
  * File:   main.cpp
- * Author: Tony
+ * Author: Anthony Keeley
  * Created on February 18, 2012, 9:41 AM
  *
  * Starts WinMerge with a set of options suited for ClearCase integration.
