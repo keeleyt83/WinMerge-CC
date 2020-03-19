@@ -1,4 +1,4 @@
-## WinMerge CC
+## winmerge-clearcase-helper
 
 ### Summary
 
@@ -6,7 +6,7 @@ Wraps the Winmerge executable and executes it with the parameters described belo
 
 To use this program, drop it in your WinMerge install directory and add it to your "maps" file as described [here](http://stackoverflow.com/questions/3297834/how-do-i-integrate-beyond-compare-with-clearcase/3298184#3298184).
 
-###[WinMerge Command Line Options](http://manual.winmerge.org/CommandLine.html)
+### [WinMerge Command Line Options](http://manual.winmerge.org/CommandLine.html)
 
 /e: enables you to close WinMerge with a single Esc key press. This is useful when you use
 WinMerge as an external compare application: you can close WinMerge quickly, like a dialog.
