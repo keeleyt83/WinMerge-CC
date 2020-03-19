@@ -1,6 +1,6 @@
 ## WinMerge CC
 
-###Summary
+### Summary
 
 Wraps the Winmerge executable and executes it with the parameters described below. This is necessary when integrating with ClearCase, since you can't add parameters to your "maps" file and batch or command files don't work.
 
